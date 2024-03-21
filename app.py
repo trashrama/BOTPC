@@ -3,7 +3,7 @@ from telethon.sync import TelegramClient, events
 from telethon import TelegramClient, sync
 
 
-trechos = ["3200 MHZ", "3200MHZ", "4600G", "A520", "500W", "GABINETE"]
+trechos = ["3200 MHZ", "3200MHZ", "4600G", "5600G", " 500W", "GABINETE"]
 
 api_id = 23649447
 api_hash = 'e688edbc3db154b25370165c872a9e5c'
